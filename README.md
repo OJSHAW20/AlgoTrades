@@ -1,13 +1,14 @@
 # AlgoTrades
-A collection of my trading stratergies
-The juypeter notebook markdowns are primarily for explaining whats going on in the code while the strateergy and why I chose the logic is explained within the medium posts. 
+A collection of my trading stratergies to log my progress in learning trading and coding.
+The juypeter notebook markdowns are primarily for explaining whats going on in the code while the stratergy and why I chose the logic is explained within the medium posts. 
 Please note the blogs are written in an informal tone primairy used an evlaaution/logging tool.
 The links to each blog are below. 
 The posts are in reverse chronological order thus the top is the most recent 
 
 ## Related Blog Posts
-1. Multi time-frame MACD- 25/11/24 - 120 lines - Explained on the medium post [here](https://medium.com/@ojshaw20/multi-timeframe-macd-55eaab1a23a4).
-2. RSI + Bollinger mean band reversion strat- 10/11/24 - Explained on the medium post [here](https://medium.com/@ojshaw20/rsi-bbb-basic-9e959f151049).
+1. Multiple tickers, new aestehtic layout + parallel coordinate plot - 12/12/24 - Explained on the medium post [here](https://medium.com/@ojshaw20/multiple-tickers-display-and-parallel-coordinate-plots-1c92d9bd2914).
+2. Multi time-frame MACD- 25/11/24 - 120 lines - Explained on the medium post [here](https://medium.com/@ojshaw20/multi-timeframe-macd-55eaab1a23a4).
+3. RSI + Bollinger mean band reversion strat- 10/11/24 - Explained on the medium post [here](https://medium.com/@ojshaw20/rsi-bbb-basic-9e959f151049).
 
 
  
