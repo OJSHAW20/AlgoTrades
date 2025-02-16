@@ -8,7 +8,7 @@ The posts are in reverse chronological order thus the top is the most recent
 **
 ## Related Blog Posts (Please note the blogs are written in an colloquial tone primairy used as an evlaaution/logging tool)
 
-**1. FVG- FINAL DRAFT- 950 lines - Finished on 12/02/2025 - Medium post [here](https://medium.com/@ojshaw20/fvg-full-code-42ebd01ccc9e)**
+1. **FVG- FINAL DRAFT- 950 lines - Finished on 12/02/2025 - Medium post [here](https://medium.com/@ojshaw20/fvg-full-code-42ebd01ccc9e)**
 2. FVG Fundamental- 440 lines- 05/01/2025 - medium post [here](https://medium.com/@ojshaw20/fvg-fundamental-e34ade427063)
 3. Multiple tickers, new aestehtic layout + parallel coordinate plot - 260 lines - 12/12/24 - Explained on the medium post [here](https://medium.com/@ojshaw20/multiple-tickers-display-and-parallel-coordinate-plots-1c92d9bd2914).
 4. Multi time-frame MACD- 25/11/24 - 120 lines - Explained on the medium post [here](https://medium.com/@ojshaw20/multi-timeframe-macd-55eaab1a23a4).
