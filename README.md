@@ -2,7 +2,7 @@
 A collection of my trading stratergies to log my progress in learning trading and coding.
 The juypeter notebook markdowns are primarily for explaining whats going on in the code while the stratergy and why I chose the logic is explained within the medium posts. 
 The links to each blog are below. 
-The posts are in reverse chronological order thus the top is the most recent 
+The posts are in reverse chronological order
 
 **Note: Bold code names are deemed as significant projects and more time was put into them
 **
