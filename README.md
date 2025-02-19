@@ -1,12 +1,12 @@
 # AlgoTrades
-A collection of my trading stratergies to log my progress in learning trading and coding.
-The juypeter notebook markdowns are primarily for explaining whats going on in the code while the stratergy and why I chose the logic is explained within the medium posts. 
+A collection of my trading strategies to log my progress in learning trading and coding.
+The Jupyter notebook markdowns are for explaining what's going on in the code while the strategy and why I chose the logic are explained in the medium posts. 
 The links to each blog are below. 
 The posts are in reverse chronological order.
 
 Important:
 - Bold code names are deemed as significant projects and more time was put into them
-- The blogs are written in a colloquial tone and are primarily used as an evlaaution/logging tool
+- The blogs are written in a colloquial tone and are primarily used as an evaluation/logging tool
   
 ## Related Blog Posts 
 
